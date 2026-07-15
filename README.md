@@ -2,14 +2,6 @@
 
 Yes, the profile pic is a scan of my hand. I took it while doing a full test run of the lithotriptor software I was hacking on.
 
-👯 I’m looking to collaborate on:
-
-Any project that leverages my skills in embedded development.
-
-🔭 I’m currently working on:
-
-Open for work! Please reach out if you need help with an embedded software project.
-
 🌱 I’m currently learning:
 <ul>
 <li>Optimizing prompt input for inference speed increases (DSpark)</li>
@@ -19,6 +11,14 @@ Open for work! Please reach out if you need help with an embedded software proje
 💬 Ask me about:
 
 C++ Apps, Payment Integrations
+
+👯 I’m looking to collaborate on:
+
+Any project that leverages my skills in embedded development.
+
+🔭 I’m currently working on:
+
+Open for work! Please reach out if you need help with an embedded software project.
 
 ⚡ Fun task:
 <ul>
