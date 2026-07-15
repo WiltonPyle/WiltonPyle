@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Yes, that's a scan of my actual hand. I took it while doing a full test run of the lithotriptor software I was updating.
+Yes, my profile pic is a scan of my hand. I took it while doing a full test run of the lithotriptor software I was updating.
 
 👯 I’m looking to collaborate on:
 
