@@ -4,7 +4,7 @@ Yes, the profile pic is a scan of my hand. I took it while doing a full test run
 
 👯 I’m looking to collaborate on:
 
-Any project that leverages my skills in embedded development and backend/payment solutions.
+Any project that leverages my skills in embedded development.
 
 🔭 I’m currently working on:
 
