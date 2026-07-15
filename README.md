@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Yes, that's a scan of my actual hand. I took it while doing a full test run of the lithotriptor software I was updating.
+
 👯 I’m looking to collaborate on:
 
 Any project that leverages my skills in embedded development and backend/payment solutions.
