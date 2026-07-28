@@ -5,7 +5,7 @@ Yes, the profile pic is a scan of my hand. I took it while doing a full test run
 🌱 I’m currently learning:
 <ul>
 <li>Optimizing prompt input for inference speed increases (DSpark)</li>
-<li>How to get vLLM to behave</li>
+<li>LLM Distillation</li>
 </ul>
 
 💬 Ask me about:
