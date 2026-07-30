@@ -14,11 +14,11 @@ Backent API, Payment Integrations
 
 👯 I’m looking to collaborate on:
 
-Any project that leverages my skills in embedded development.
+Any project that leverages my skills.
 
 🔭 I’m currently working on:
 
-Open for work! Please reach out if you need help with an embedded software project.
+Open for work! Please reach out if you need help.
 
 ⚡ Fun task:
 <ul>
