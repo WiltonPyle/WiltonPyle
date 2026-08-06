@@ -10,7 +10,7 @@ Yes, the profile pic is a scan of my hand. I took it while doing a full test run
 
 💬 Ask me about:
 
-Backent API, Payment Integrations
+Backend API, Payment Integrations
 
 👯 I’m looking to collaborate on:
 
